@@ -1,7 +1,6 @@
 # Sentiment Analysis with Flask
 This project is an example of creating a Python-based web application using Flask to perform sentiment analysis on user-inputted text. The sentiment analysis is done by calling an external API that uses a pre-trained machine learning model.
 
-
 ## Getting Started
 These instructions will help you set up and run the project on your local machine.
 
